@@ -14,7 +14,7 @@ Happy Coding!
 
 - **Lectures:** Mondays 2:15-3:45PM CET
 - **Labs:** Mondays 4:15-5:45PM CET
-- **Labs Office Hours:** Tuesday 10:00-11:00AM, please register via mail.
+- **Labs Office Hours:** Please send us an email to arrange a meeting.
 - **Announcements:** All course-related announcements and questions will happen on Canvas.
 
 ## Course Code Lab Notebooks ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
