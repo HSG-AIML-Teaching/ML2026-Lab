@@ -25,24 +25,24 @@ This table lists all lab session and coding challenge session incl. the launcher
 
 | Date                    | Lab        |  Content                         |  CoLab Notebook Launchers                 | MyBinder Notebook Launchers| 
 |:-----------------------:|:--------------:|:---------------------------------|:-------------------------------:|:-------:|
-| Mon, Sep. 15            |   **Lab 1**     | Lab 101 (Jupyter Notebook)         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2026-Lab/blob/main/lab_101/lab_101_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2026-Lab/main?filepath=lab_101%2Flab_101_notebook.ipynb)|
-| Mon, Sep. 15            |   **Lab 1**     | Lab 102 (Python Basics)         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2026-Lab/blob/main/lab_102/lab_102_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2026-Lab/main?filepath=lab_102%2Flab_102_notebook.ipynb)|
-| Mon, Sep. 15           |   **Lab 1**     | Lab 103 (Numpy, Pillow and Matplotlib)         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2026-Lab/blob/main/lab_103/lab_103_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2026-Lab/main?filepath=lab_103%2Flab_103_notebook.ipynb)|
-| Mon, Sep. 22            | **CC 1**       | Coding Challenge - Kick-Off & EuroSAT          | - | -|
-| Mon, Sep. 29            | **Lab 2**       | Support Vector Machines & Iris | - | - |
-| Mon, Oct. 6            | **Lab 3**   | Introduction to PyTorch         | - | - |
-| Mon, Oct. 6            | **Lab 3**   | Multi-Layer Perceptron      | - | - |
-| Mon, Oct. 13            | **Lab 4**   | Custom Datasets in PyTorch    | - | - |
-| Mon, Oct. 13            | **Lab 4**   | Convolutional Neural Networks (CNNs) & CIFAR10     | - | - |
-| Mon, Oct. 20            | **Lab 5**   | Recurrent Neural Networks (RNNs + LSTMs) - Text Generation        | - | - |
-| Mon, Oct. 20            | **Lab 5**   | LSTMs - Stock Price Prediction       | - | - 
+| Mon, Sep. 14            |   **Lab 1**     | Lab 101 (Jupyter Notebook)         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2026-Lab/blob/main/lab_101/lab_101_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2026-Lab/main?filepath=lab_101%2Flab_101_notebook.ipynb)|
+| Mon, Sep. 14            |   **Lab 1**     | Lab 102 (Python Basics)         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2026-Lab/blob/main/lab_102/lab_102_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2026-Lab/main?filepath=lab_102%2Flab_102_notebook.ipynb)|
+| Mon, Sep. 14           |   **Lab 1**     | Lab 103 (Numpy, Pillow and Matplotlib)         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2026-Lab/blob/main/lab_103/lab_103_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2026-Lab/main?filepath=lab_103%2Flab_103_notebook.ipynb)|
+| Mon, Sep. 21            | **CC 1**       | Coding Challenge - Kick-Off & EuroSAT          | - | -|
+| Mon, Sep. 28            | **Lab 2**       | Support Vector Machines & Iris | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2026-Lab/blob/main/lab_02/lab_02.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2026-Lab/main?filepath=lab_02%2Flab_02.ipynb)|
+| Mon, Oct. 5            | **Lab 3**   | Introduction to PyTorch         | - | - |
+| Mon, Oct. 5            | **Lab 3**   | Multi-Layer Perceptron      | - | - |
+| Mon, Oct. 12            | **Lab 4**   | Custom Datasets in PyTorch    | - | - |
+| Mon, Oct. 12            | **Lab 4**   | Convolutional Neural Networks (CNNs) & CIFAR10     | - | - |
+| Mon, Oct. 19            | **Lab 5**   | Recurrent Neural Networks (RNNs + LSTMs) - Text Generation        | - | - |
+| Mon, Oct. 19            | **Lab 5**   | LSTMs - Stock Price Prediction       | - | - 
 | -                       | -       | Semester Break                         | -   | -   |
-| Mon, Nov. 10           | **CC  2**   | Status Meeting (How's it going so far?)          | - | - |
-| Mon, Nov. 17            | **Lab 6**   | Attention              | - | - 
-| Mon, Nov. 24            | **Lab 7**   | K-Means, EM Clustering & Iris               | - | - |
-| Mon, Dec. 1            | **Lab 8**   | Autoencoder (Anomaly Detection on tabular data)  | - | - |
-| Mon, Dec. 8            | **Lab 9**   | Transfer Learning & SSL  | - | - |
-| Mon, Dec. 15            | **CC  3**   | Coding Challenge (Final Session)                             | - | - |
+| Mon, Nov. 9            | **CC  2**   | Status Meeting (How's it going so far?)          | - | - |
+| Mon, Nov. 16            | **Lab 6**   | Attention              | - | - 
+| Mon, Nov. 23            | **Lab 7**   | K-Means, EM Clustering & Iris               | - | - |
+| Mon, Nov. 30           | **Lab 8**   | Autoencoder (Anomaly Detection on tabular data)  | - | - |
+| Mon, Dec. 7            | **Lab 9**   | Transfer Learning & SSL  | - | - |
+| Mon, Dec. 14            | **CC  3**   | Coding Challenge (Final Session)                             | - | - |
 
 <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2026-Lab/blob/main/lab_2/lab_2_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2026-Lab/main?filepath=lab_2%2Flab_2_notebook.ipynb)|-->
 
