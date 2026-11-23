@@ -40,7 +40,7 @@ This table lists all lab session and coding challenge session incl. the launcher
 | -                       | -       | Semester Break                         | -   | -   |
 | Mon, Nov. 9            | **CC  2**   | Status Meeting (How's it going so far?)          | - | - |
 | Mon, Nov. 16            | **Lab 6**   | Attention              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2026-Lab/blob/main/lab_6/gpt.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2026-Lab/main?filepath=lab_6%2Fgpt.ipynb) |
-| Mon, Nov. 23            | **Lab 7**   | K-Means, EM Clustering & Iris               | - | - |
+| Mon, Nov. 23            | **Lab 7**   | K-Means, EM Clustering & Iris               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2026-Lab/blob/main/lab_7/unsupervised.ipynb)  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2026-Lab/main?filepath=lab_7%2unsupervised.ipynb)  |
 | Mon, Nov. 30           | **Lab 8**   | Autoencoder (Anomaly Detection on tabular data)  | - | - |
 | Mon, Dec. 7            | **Lab 9**   | Transfer Learning & SSL  | - | - |
 | Mon, Dec. 14            | **CC  3**   | Coding Challenge (Final Session)                             | - | - |
